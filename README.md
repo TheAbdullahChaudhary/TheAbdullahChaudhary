@@ -11,8 +11,6 @@ I'm Muhammad Abdulah, a DevOps Engineer and IT student passionate about optimizi
 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theabdullahchaudhary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theabdullahchaudhary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/muhammad-abdullah-devops-engineer/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@theabdullahch) 
-
 # 💻 Tech Stack:
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.docker.com/" target="_blank">
@@ -73,6 +71,6 @@ I'm Muhammad Abdulah, a DevOps Engineer and IT student passionate about optimizi
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Uzair153&label=Profile%20Views138&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TheAbdullahChaudhary&label=Profile%20Views138&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # TheAbdullahChaudhary
