@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
+
 # 💫 About Me:
 <h3 align="center">A DevOps Engineer and IT student passionate about optimizing software development and delivery processes.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAbdullahChaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="TheAbdullahChaudhary" /> </p>
