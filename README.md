@@ -1,8 +1,4 @@
 # 💫 About Me:
-
-<p align="center">
-  <img src="https://github.com/TheAbdullahChaudhary/profile-assets/blob/main/github-header-image.png" alt="MasterHead" style="width: 100%;">
-</p>
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A DevOps Engineer and IT student passionate about optimizing software development and delivery processes.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAbdullahChaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ateeqaslam769" /> </p>
