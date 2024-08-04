@@ -1,7 +1,9 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A DevOps Engineer and IT student passionate about optimizing software development and delivery processes.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAbdullahChaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ateeqaslam769" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAbdullahChaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="TheAbdullahChaudhary" /> </p>
+<img align="right" alt="DevOps" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+
 
 
 ## 🌐 Socials:
