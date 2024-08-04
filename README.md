@@ -60,9 +60,6 @@ I'm Muhammad Abdulah, a DevOps Engineer and IT student passionate about optimizi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Uzair_Sheikh&limit=5&theme=alduin&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Uzair153&label=Profile%20Views138&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
