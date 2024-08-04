@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm Muhammad Abdulah, a DevOps Engineer and IT student passionate about optimizing software development and delivery processes.
+
+<p align="center">
+  <img src="https://github.com/TheAbdullahChaudhary/profile-assets/blob/main/github-header-image.png" alt="MasterHead" style="width: 100%;">
+</p>
+<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
+<h3 align="center">A DevOps Engineer and IT student passionate about optimizing software development and delivery processes.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAbdullahChaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ateeqaslam769" /> </p>
 
 
 ## 🌐 Socials:
@@ -71,6 +77,6 @@ I'm Muhammad Abdulah, a DevOps Engineer and IT student passionate about optimizi
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheAbdullahChaudhary&label=Profile%20Views138&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # TheAbdullahChaudhary
