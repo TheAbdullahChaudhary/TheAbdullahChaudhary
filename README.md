@@ -26,14 +26,14 @@ My goal is simple:
 
 ### 🔭 What I Work On
 
-* ☁️ **Multi-cloud infrastructure** across AWS, Azure & GCP
-* ☸️ Production **Kubernetes** platforms using EKS, AKS & GKE
+* ☁️ Multi-cloud infrastructure across **AWS, Azure & GCP**
+* ☸️ Production Kubernetes platforms using **EKS, AKS & GKE**
 * 🚀 **CI/CD & GitOps** delivery pipelines
-* 🏗️ **Infrastructure as Code** with Terraform, CloudFormation & Terragrunt
-* 🔄 GitOps deployments with **Argo CD & Flux CD**
+* 🏗️ Infrastructure as Code with **Terraform, CloudFormation & Terragrunt**
+* 🔄 GitOps deployments using **Argo CD & Flux CD**
 * 🐳 Docker image build, patching, deployment & registry workflows
 * 📊 Monitoring, logging, tracing & production observability
-* ⚙️ Serverless and event-driven automation using AWS Lambda
+* ⚙️ Serverless and event-driven automation using **AWS Lambda**
 * 🔐 IAM, Kubernetes RBAC, secrets management & cloud security
 * 🗄️ Database infrastructure, migration, CDC & production cutovers
 * 🌐 Cloud networking, APIs, load balancing, DNS & ingress
@@ -222,16 +222,17 @@ My goal is simple:
 # ⚡ Core Capabilities
 
 ```text
-Cloud Architecture       ████████████████████  AWS / Azure / GCP
-Kubernetes               ████████████████████  EKS / AKS / GKE
-Infrastructure as Code   ████████████████████  Terraform / CloudFormation
-CI/CD                    ████████████████████  Jenkins / GitHub / GitLab
-GitOps                   ████████████████████  Argo CD / Flux CD
-Observability            ████████████████████  Prometheus / Grafana / ELK
-Automation               ████████████████████  Python / Bash / Lambda
-Cloud Networking         ████████████████████  VPC / ALB / DNS / API GW
-Databases                ████████████████████  SQL / RDS / PostgreSQL
-SRE & Operations         ████████████████████  Reliability / Incidents
+Cloud Architecture       → AWS / Azure / GCP
+Kubernetes               → EKS / AKS / GKE
+Infrastructure as Code   → Terraform / CloudFormation
+CI/CD                    → Jenkins / GitHub Actions / GitLab CI
+GitOps                   → Argo CD / Flux CD
+Observability            → Prometheus / Grafana / ELK / Datadog
+Automation               → Python / Bash / PowerShell / Lambda
+Cloud Networking         → VPC / ALB / DNS / API Gateway
+Databases                → SQL Server / RDS / PostgreSQL / MySQL
+SRE & Operations         → Reliability / Troubleshooting / Incidents
+Data Engineering         → Glue / Athena / Redshift / Kinesis / EMR
 ```
 
 ---
@@ -274,39 +275,16 @@ Designing AWS data and ETL architectures using **Glue, Athena, Redshift, Kinesis
 
 # 🧠 DevOps Areas I Write About
 
-I also share hands-on DevOps, SRE and cloud engineering knowledge covering:
-
-### 🔵 Zero-Downtime Deployments
-
-**Docker Blue-Green Deployment Strategy on AWS**
-
-### ☸️ Kubernetes CI/CD
-
-**Jenkins → ECR → Kubernetes → Ingress Controller**
-
-### 🔄 GitOps
-
-**Argo CD Continuous Delivery for Kubernetes**
-
-### 📊 Kubernetes Observability
-
-**Prometheus + Grafana + Helm**
-
-### 🌐 Kubernetes Networking
-
-**Ingress Controllers, HTTPS & TLS**
-
-### 🔐 Kubernetes Security
-
-**RBAC, Roles, ClusterRoles & Production Namespace Isolation**
-
-### ☁️ AWS Architecture
-
-**Private S3 + Lambda + ALB + VPC + IAM**
-
-### ⚡ Serverless Architecture
-
-**AWS Lambda vs ECS Fargate**
+* 🔵 **Zero-Downtime & Blue-Green Deployments**
+* ☸️ **Kubernetes & Container Orchestration**
+* 🚀 **CI/CD Pipeline Engineering**
+* 🔄 **GitOps with Argo CD**
+* 📊 **Kubernetes Monitoring with Prometheus & Grafana**
+* 🌐 **Ingress Controllers, HTTPS & TLS**
+* 🔐 **Kubernetes RBAC & Security**
+* ☁️ **AWS Architecture & Cloud Security**
+* ⚡ **Serverless Architecture**
+* 🛠️ **Production Troubleshooting & SRE**
 
 ---
 
@@ -354,28 +332,48 @@ I also share hands-on DevOps, SRE and cloud engineering knowledge covering:
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Contact Me
+
+<div align="center">
+
+### Muhammad Abdullah
+
+**DevOps Engineer & Site Reliability Engineer**
+
+📍 **Lahore, Punjab, Pakistan**
+
+📧 **Email:** [devopsbyabdullah@gmail.com](mailto:devopsbyabdullah@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/muhammad-abdullah-devops-engineer](https://www.linkedin.com/in/muhammad-abdullah-devops-engineer/)
+
+💻 **GitHub:** [github.com/TheAbdullahChaudhary](https://github.com/TheAbdullahChaudhary)
+
+🐦 **X / Twitter:** [@theabdullahch](https://x.com/theabdullahch)
+
+📸 **Instagram:** [@theabdullahchaudhary](https://instagram.com/theabdullahchaudhary)
+
+🌐 **Facebook:** [theabdullahchaudhary](https://facebook.com/theabdullahchaudhary)
+
+</div>
+
+<br/>
 
 <p align="center">
 
 <a href="mailto:devopsbyabdullah@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-abdullah-devops-engineer/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/theabdullahchaudhary">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/theabdullahchaudhary">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/TheAbdullahChaudhary">
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://x.com/theabdullahch">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
